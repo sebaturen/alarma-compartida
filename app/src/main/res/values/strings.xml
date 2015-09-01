@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Alarma Compartida</string>
+
+    <!-- Alarma -->
+    <string name="no_prox_alarm">&lt;-- No hay próximas alarmas... --&gt;</string>
+    <string name="inicie_secion_alert">Por favor inicie sesión -- Alarma Compartida</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="prox_alarma">Próxima Alarma:</string>
+    <string name="change_user">Cambiar de usuario</string>
+    <string name="acerca_de">Acerca de...</string>
+    <string name="autentificador">Codigo autentificador:</string>
+    <string name="acerca_de_cont">Aplicacion desarollada por TurenSoft © Derechos recervados 2015.\n\n
+                        Envia tus comentarios a seba@turensoft.com</string>
+    <string name="no_molestar">No molestar</string>
+
+    <!-- Login -->
+    <string name="inicio_secion">Inicie Sesión</string>
+    <string name="inicie_secion_bot">Iniciar...</string>
+    <string name="user_or_pass_fail">Correo y contraseña no concuerdan</string>
+    <string name="valid_account">Validando cuenta...</string>
+    <string name="conectando">Conectando...</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+
+
+</resources>
